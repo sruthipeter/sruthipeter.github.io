@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sruthi Peter, Initial Post"
+title: "Blog is up!"
 date: 2016-10-15
 ---
 
