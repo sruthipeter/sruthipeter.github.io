@@ -8,7 +8,7 @@ I am currently putting together the code I used for my major thesis. This will b
 
 You can checkout the [Notebook](https://github.com/sruthipeter/gender-stereotypes/blob/master/gender-stereotypes.ipynb) now. Github makes it very easy to share research material in this way!
 
-## **GENDER STEREOTYPES AND THE INFLUENCE OF FEMALE SIGNIFICANT FIGURES** ##  
+## **GENDER STEREOTYPES AND THE INFLUENCE OF FEMALE SIGNIFICANT FIGURES**   
 
 The study explored the influence of female significant figures, such as female siblings or cousins, and the power/ dominance Indian men held over their partner in romantic relationships `RR`.  
 
