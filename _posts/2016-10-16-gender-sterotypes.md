@@ -13,7 +13,7 @@ The study explored the influence of female significant figures, such as female s
 >According to Wetizman's Role Theory (1979), children develop their behaviors and attitudes on thr basis of the presence of significant figures in their life. 
 
 ##**Participants:**
-* Participants were all over 18 years of age. 
+* All participants were over 18 years of age. 
 * Indian men either currently in a relationship (married or unmarried) or had previously been in a relationship.
 * 51 responses were recorded. 3 participants were discarded due to their failure to complete the full survey. 48 participants were studied.
 
