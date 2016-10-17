@@ -8,4 +8,4 @@ I am currently putting together the code I used for my major thesis. This will b
 
 You can checkout the [Notebook](https://github.com/sruthipeter/gender-stereotypes/blob/master/gender-stereotypes.ipynb) now. Github makes it very easy to share research material in this way!
 
-Over the coming days, I will add a brief writeup about the thesis here as well.
+Over the coming days, I will add a brief writeup about this project.
