@@ -10,7 +10,7 @@ You can checkout the [Notebook](https://github.com/sruthipeter/gender-stereotype
 
 ---
 
-**_The study explored whether the presence of female significant figures (eg. female siblings) influences the power/ dominance Indian men have on their partner in romantic relationships `RR`._**
+**The study explored whether the presence of female significant figures (eg. female siblings) influences the power/ dominance Indian men have on their partner in romantic relationships`RR`.**
 
 >According to Wetizman's Role Theory (1979), children develop their behaviors and attitudes on thr basis of the presence of significant figures in their life. 
 
