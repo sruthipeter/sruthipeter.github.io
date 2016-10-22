@@ -10,7 +10,7 @@ You can checkout the [Notebook](https://github.com/sruthipeter/gender-stereotype
 
 ---
 
-The study explored the influence of female significant figures, such as female siblings or cousins, and the power/ dominance Indian men held over their partner in romantic relationships `RR`.  
+**_The study explored whether the presence of female significant figures (eg. female siblings) influences the power/ dominance Indian men have on their partner in romantic relationships `RR`._**
 
 >According to Wetizman's Role Theory (1979), children develop their behaviors and attitudes on thr basis of the presence of significant figures in their life. 
 
@@ -25,3 +25,10 @@ The study explored the influence of female significant figures, such as female s
 * Self- perceived Deciosion Making Power Questionnaire (Blood and Wolf, 1960)  
 * The Index of Marital Satisfaction (IMS)  
 * Sociodemographic details  
+
+### **_Results_**
+
+* The main hypothesis of the study was supported in that higher number of female siblings enforce gender stereotypes in Indian men.
+* Indian men with higher number of female siblings believed in higher decision power in RR. 
+* Pearson's coefficient r- value was 0.5 for the correlation between number of female siblings and decision making power index (p<0.05). 
+
