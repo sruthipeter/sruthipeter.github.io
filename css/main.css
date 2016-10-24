@@ -3,8 +3,8 @@ body {
     width: 70%;
 }
 img.auto {
-    height: auto;
-    width: auto;
+    height: 50%;
+    width: 50%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
