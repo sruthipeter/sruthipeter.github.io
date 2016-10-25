@@ -1,3 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+cv/resume.aux
+cv/resume.log
+cv/resume.out
