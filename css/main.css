@@ -4,12 +4,9 @@ body {
 }
 img.auto {
     height: 40%;
-    width: 40%;
+    width: 80%;
 }
-img.two {
-    height:30%;
-    width: 30%';
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
